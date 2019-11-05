@@ -90,7 +90,7 @@ div#l2 input#pass1,div#l3 input#pass2{height:28px;width:105%;border-right-width:
 label.label.label-primary.mini.fl{pointer-events:auto;width:35%!important;height:24px;color:#fff;/* border:none!important;*/
   border-radius:11px 8px 5px 22px!important;border-left:dotted;border-bottom-style:dotted;/* border-right:5px #f29d19 solid;*/
   font-family:fanni;font-size:15.3px!important;background:linear-gradient(163deg,#d673bb 0%,#700d55 100%)!important}
-.lonline.light.break{outline:#258f3b solid 1px!important;background-color:#ffffff!important;background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,0.23) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,0.2) 75%,transparent 75%,transparent)!important}
+.lonline.light.break{outline: #e6e6fa solid 1px!important;background-color:#ffffff!important;background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,0.23) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,0.2) 75%,transparent 75%,transparent)!important;}
 div#tlogins{border-color:#ffffff;outline:0;box-shadow:inset 0 2px 2px rgba(0,0,0,.075),0 0 8px #ee8bd3;border:1px solid#ffcef1;background:#fff}
 ul.nav.nav-tabs.fl li a:hover{color:#fffc76}
 .nav-tabs>li>a{border:0 solid transparent}
