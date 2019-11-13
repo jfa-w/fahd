@@ -31,7 +31,7 @@ div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.bt
     padding:0!important;position:absolute!important;width:74%;margin-left:-120px;left:11px;background:#eae9e800;top:108px}
 l.nav.nav-tabs{margin-top:0!important;margin-bottom:4px!important;border-radius:8px;background-color:#fff!important;border:#ff000000!important;font-size:15px!important}
 .ukick{margin:0!important;width:60px!important;background-color:#fff!important;margin-top:14px!important;margin-left:-60px!important;position:absolute;top:1px}
-.uban{margin:0!important;width:60px!important;background-color:#fff;margin-top:73px!important;margin-left:-61px!important;position:absolute;top:1px}
+.uban{margin:0!important;width:60px!important;background-color:#ffffff;margin-top:73px!important;margin-left:-61px!important;position:absolute;top:1px;/* color:#fff!important;*/}
 .btn.hand.borderg.corner{width:25px;height:25px}
 ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.nav.nav-tabs>li>.fa-user:before{float:right;margin-right:2%;border:1px solid;padding:0 1px 0;border-radius:10.10px;border-right-width:18px;border-bottom-color:#2b3e52;/* border-bottom-left-radius:14px;*/
   
@@ -70,10 +70,10 @@ span.busers.minix.badge.border{display:-webkit-inline-box;background-color:#ffff
 span.border{border:none}
 h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-group:before,.fa-users:before,span.border,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before,.fa-envelope-o:before,.fa-diamond:before,.fa-search:before,.fa-ban:before,.fa-ban:before,.fa-user-times:before{display:none}
 .label-warning{background-color:#a4045c}
-.fa-user-times{margin:0!important;background-color:#ffbc2633;color:white;top:0!important;margin-left:-379px!important;transform:rotate(-89.9deg);width:130px!important;margin-top:-263px!important;/* color:white;*/
-    
+.fa-user-times{margin:0!important;background-color:#ff2626;color:white;top:0!important;margin-left:-452px!important;transform:rotate(-89.9deg);width:128px!important;margin-top:-240px!important;/* color:white;*/
+  
 /* text-align:center;*/
-    border-radius:10px;border-left:9px #9932cc94 solid;text-align-last:start;text-decoration:solid;border-radius:1px 88px 22px 1888px}
+  border-radius:88px;border-left:9px #a90743 solid;text-align-last:start;text-decoration:solid;color:#fff!important;border-right:33px #000 solid;width:81.4%!important;border-top:dotted;border-left:dotted;border-left-style:dotted}
 #asim66{margin-top:0!important;position:absolute;top:-122px;left:5px;background-image:url(https://www.jfaw-w.net/sico/z1dap4u8o310.png)!important;background-size:129px}
 .border{border:.9px solid #cecece}}
 }
