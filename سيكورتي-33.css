@@ -70,28 +70,13 @@ span.busers.minix.badge.border{display:-webkit-inline-box;background-color:#ffff
 span.border{border:none}
 h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-group:before,.fa-users:before,span.border,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before,.fa-envelope-o:before,.fa-diamond:before,.fa-search:before,.fa-ban:before,.fa-ban:before,.fa-user-times:before{display:none}
 .label-warning{background-color:#a4045c}
-.fa-user-times{
-  margin:0!important;
-  background-color:#ff2626;
-  color:white;
-  top:0!important;
-  margin-left: -452px!important;
-  transform:rotate(-89.9deg);
-  width:128px!important;
-  margin-top:-240px!important;
-  /* color:white;*/
-  /* text-align:center;*/
-  border-radius:88px;
-  border-left:9px #a90743 solid;
-  text-align-last:start;
-  text-decoration:solid;
-  color:#fff!important;
-  border-right:33px #000 solid;
-  width:81.4%!important;
-  border-top: 3px dotted;
-  border-left: 4px dotted;
-  border-left-style: dotted;
-  }
+.fa-user-times{margin:0!important;background-color:#74062b;color:#18599e;top:0!important;margin-left:-452px!important;transform:rotate(-89.9deg);width:128px!important;margin-top:-240px!important;/* color:white;*/
+  
+/* text-align:center;*/
+  border-radius:88px;border-left:9px #a90743 solid;text-align-last:start;text-decoration:solid;color:#ffffff!important;border-right:33px #74062b solid;width:81.4%!important;border-top:1.3px dotted;border-left:4px dotted;border-left-style:dotted}
+.modal-header.label-primary{color:#74062b ! important;margin-top:-1px;background-image: url(https://www.jfa-w.net/sico/z1dpn8fvvc10.png);background-size:cover;width:100%!important;padding:6px;border-radius:7px;text-align:center;border-bottom:1px #74062b solid;border-bottom-style:dashed;}
+.badge{display:inline-block;min-width:10px;font-size:12px;font-weight:700;line-height:1;color:#fff;text-align:center;white-space:nowrap;vertical-align:middle;background-color:#74062b;border-radius:10px}
+.modal-body{position:relative;padding:15px;mix-blend-mode:soft-light;padding:0!important}
 #asim66{margin-top:0!important;position:absolute;top:-122px;left:5px;background-image:url(https://www.jfaw-w.net/sico/z1dap4u8o310.png)!important;background-size:129px}
 .border{border:.9px solid #cecece}}
 }
