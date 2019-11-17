@@ -74,7 +74,7 @@ h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-grou
   
 /* text-align:center;*/
   border-radius:88px;border-left:9px #a90743 solid;text-align-last:start;text-decoration:solid;color:#ffffff!important;border-right:33px #74062b solid;width:81.4%!important;border-top:white;border-left:3px dotted;border-left-style:dotted}
-.modal-header.label-primary{color:#74062b ! important;margin-top:-1px;background-image:url(https://www.jfa-w.net/sico/z1dpn8fvvc10.png);background-size:cover;width:100%!important;padding:5px;border-radius:7px;text-align:center;border-bottom:1px #74062b solid;border-bottom-style:dashed;/* border-left-width:inherit; *//* box-shadow: 0 1px 9px rgba(0,0,0,.5); */}
+.modal-header.label-primary{/* color:#74062b ! important; *//* margin-top:-1px; *//* background-image:url(https://www.jfa-w.net/sico/z1dpn8fvvc10.png); *//* background-size:cover; *//* width:100%!important; *//* padding:5px; *//* border-radius:7px; *//* text-align:center; *//* border-bottom:1px #74062b solid; *//* border-bottom-style:dashed; *//* border-left-width:inherit; *//* box-shadow: 0 1px 9px rgba(0,0,0,.5); */}
 .badge{display:inline-block;min-width:10px;font-size:12px;font-weight:700;line-height:1;color:#fff;text-align:center;white-space:nowrap;vertical-align:middle;background-color:#74062b;border-radius:10px}
 .modal-body{position:relative;padding:15px;mix-blend-mode: multiply;padding:0!important;/* border-left-style:outset; *//* box-shadow: 0 12px 12px rgba(0,0,0,.5); */}
 .modal-title{margin:8px!important;line-height:1.42857143;margin-top:-3px!important}
