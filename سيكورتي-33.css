@@ -47,13 +47,14 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
 .inline{/* background-size:contain!important;*/
   border:1px solid lavender;color:#ffffff}
 div#mic{background-size:contain!important}
-div#mic{background-image:url(https://www.up-00.com/i/00141/m2ixsu2ceg7s.gif
-)!important;background-size:cover}
+div#mic{background-image: url(https://www.up-00.com/i/00148/caa6q5sdv8x0.gif
+
+)!important;background-size:cover;}
 .fa-volume-up:before{content:"\f004"}
 .ae.fa.label.label-primary.fa-volume-up{margin-left:-3px!important;border-radius:0 7px 15px 0}
 .ae.label.label-primary.fa.fa-gear{border-radius:7px 0 0 15px}
 .fl.mini.fa.fa-bullhorn.btn.btnn-default{font-size:14px!important;width:100%;background-color:#2b3e52!important;color:hsl(0,0%,100%);text-align:center;border-radius:10%;margin-bottom:3px;margin-top:1px;height:25px;padding:5px 0;margin-left:1px}
-input[type="jfa-w"]{font-size:15px!important;width:100%;text-align:center;color:#d9534f;border-radius:14%;margin-bottom:6px;margin-top:1px;margin-left:3px}
+input[type="jfa-w"]{font-size:15px!important;width:100%;text-align:center;color: #a4045c;border-radius: 14%;margin-bottom:6px;margin-top:1px;margin-left:3px;/* background-image: url(https://ashwaqchat.com/styleone/1.png); *//* background-size: cover; *//* width: 100%; *//* padding: 6px; *//* border-radius: 0px; *//* text-align: center; */}
 .tbox{padding:5px;min-height:32px}
 .uzr.fl.corner.borderg.mm{margin-left:0!important;border-radius:0!important;width:100%!important;margin-bottom:-1px!important;border:1px solid hsl(186,45%,88%)}
 .pmsgc{background-color:#f9f7f9!important;/* -webkit-text-fill-color:#ad2f9f;*/}
