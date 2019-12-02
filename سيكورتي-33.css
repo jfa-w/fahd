@@ -105,6 +105,11 @@ div#tlogins::-webkit-scrollbar-button{width:5px;height:5px}
 div#tlogins::-webkit-scrollbar-corner{background:transparent}
 div#tlogins::-webkit-scrollbar-thumb{background:#287c86;border:71px none #fff;border-radius:31px;background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important}
 div#tlogins::-webkit-scrollbar-track{background:#fff;border:65px none #fff;border-radius:34px}
+div#tlogins::-webkit-scrollbar{width:5px;height:10px}
+div#tlogins::-webkit-scrollbar-button{width:5px;height:5px}
+div#tlogins::-webkit-scrollbar-corner{background:transparent}
+div#tlogins::-webkit-scrollbar-thumb{background:#2b3e52;border:71px none #fff;border-radius:31px;background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important}
+div#tlogins::-webkit-scrollbar-track{background:#fff;border:65px none #fff;border-radius:34px}
 #asim66{margin-top:0!important;position:absolute;top:-122px;left:5px;background-image:url(https://www.jfaw-w.net/sico/z1dap4u8o310.png)!important;background-size:129px}
 .border{border:.9px solid #cecece}}
 }
