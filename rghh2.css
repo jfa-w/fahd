@@ -200,7 +200,7 @@ div#tlogins::-webkit-scrollbar-corner{background:transparent}
 div#tlogins .fl.mini.u-msg{display:inline!important;white-space:break-spaces!important;padding:7px;text-align:center}
 a#تطوير-مطنوخ-ششمر{text-decoration:none;font-size:8px!important;color:#ffffff!important;/* background:#0039bd!important;*/
   height:12px;margin:0 0 0 0;line-height:9px;position:relative;top:-13px;border-right:8px #ffffff solid;border-radius:7px 50px 0 5px;border-right-style:double;background-image:linear-gradient(90deg,#ddd6e5 0,#a44b9d 10%,#b04dbf 51%,#c886cd 89%,#a39eb9 100%)}
-div#tlogins .fade{opacity:1!important;-webkit-transition:none!important;-o-transition:none!important;transition:none!important;width:65%!important;position:absolute;margin:6px 0 0 147px;height:110px}
+div#tlogins .fade{opacity:1!important;-webkit-transition:none!important;-o-transition:none!important;transition:none!important;width:65%!important;position:absolute;margin:6px 0 0 147px;height:110px;}
 button.btn.btn-default{color:#fff!important;border-radius:15px;padding:0 5px;margin-top:6px;background-image:linear-gradient(to bottom,#5cb85c 0,#419641 100%)!important;border:#ccc solid 1px!important}
 textarea.oa2020{width:100%;resize:none;height:180px}
 div#chats{background-image:url();background-size:contain;background-repeat:no-repeat;background-position:50% 50%}
@@ -232,14 +232,23 @@ label.ae.fa.label.fa-users.btnClAlGr.label-warning,label.ae.fa.label.fa-users.bt
   padding:7px 10px 5px;margin-left:-4px!important;border-radius:0 3px 3px 0;border-style:solid;border-right:4px solid;border-right-style:ridge}
 .fa-user-times:before{display:none}
 label.addGruMsg.label.tc.border.btn.label-info.fl{background-image:linear-gradient(to bottom,#5cb85c 0,#419641 100%);color:#fff!important}
-ul.nav.nav-tabs{float:right;padding:10px 6px 2px 1px;border-radius:10px;margin-top:5px;/* border-left:2px solid #f7d322;*/
-  
-/* border-right:2px solid #f7d322;*/
-  
-/* background-image:-webkit-linear-gradient(45deg,#f9f9f9 25%,#d8f7fb82 25%,#e5fcff 50%,rgba(154,226,241,0.79) 50%,rgba(148,233,247,0.11) 75%,#e6f7f9 75%,#f9f9f9)!important;*/
-  
-/* background:#ebebeb;*/
-  border-left:2px solid #af4cba;border-right:2px solid #af4cbb;background-image:-webkit-linear-gradient(45deg,#f9f9f9 25%,#d8f7fb82 25%,#e5fcff 50%,rgba(154,226,241,0.79) 50%,rgba(148,233,247,0.11) 75%,#e6f7f9 75%,#f9f9f9)!important;background:#ebebeb;border-top:1.4px #ae4bba solid;border-top-style:dotted;background-blend-mode:overlay}
+ul.nav.nav-tabs{
+  float:right;
+  padding:10px 6px 2px 1px;
+  border-radius:10px;
+  margin-top:5px;
+  /* border-left:2px solid #f7d322; */
+  /* border-right:2px solid #f7d322; */
+  /* background-image:-webkit-linear-gradient(45deg,#f9f9f9 25%,#d8f7fb82 25%,#e5fcff 50%,rgba(154,226,241,0.79) 50%,rgba(148,233,247,0.11) 75%,#e6f7f9 75%,#f9f9f9)!important; */
+  /* background:#ebebeb; */
+  border-left:2px solid #af4cba;
+  border-right: 2px solid #af4cba;
+  background-image: -webkit-linear-gradient(45deg,#f9f9f9 25%,#d5a4d94d 25%,#af4cbb52 50%,rgb(175 76 187 / 19%) 50%,rgb(239 201 247) 75%,#b459d94f 75%,#f9f9f9)!important;
+  /* background:#ebebeb; */
+  border-top:1.4px #ae4bba solid;
+  border-top-style:dotted;
+  /* background-blend-mode:overlay; */
+  }
 div#l1{height:84px}
 a#فهد{font-size:14px!important;width:50px!important;border:1px solid #ffffff;margin-right:0;/* float:right;*/
     padding:5px 0 0 12px;height:23px!important;color:#fff!important;margin-left:-19.9px;border-radius:0;background-repeat:repeat;border-bottom:0 solid#ffffff;border-radius:5px 70px 5px 50px!important;border-left:3px solid#ffffff!important;border-right:1px solid#ffffff!important;background-image:linear-gradient(90deg,#cbbdcf 0,#b04fc7 10%,#af4bb7 51%,#e5cae6 89%,#f5e5fa 100%)}
