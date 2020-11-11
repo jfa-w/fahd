@@ -6,7 +6,7 @@ $(`<img src="https://g3dh.com/sico/1602782882410.gif" class="fr" style="width:10
 `).insertBefore('.nav-tabs');$(` <center> <div style =" width: 100٪؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample">- ¦com.عسيريه دوت - ¦¦ -</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> `).insertBefore('#d2')
 $('.u-msg.dots').removeClass('dots');
 $(".ubnr").remove();
-$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/fahd/4d29afee51f0ee2dffece284e15bf5344b231a83/fahad22.css"></style>`).insertBefore("body");
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/fahd/ccfd33a495b9425200fbac1380bdb14166db3c4c/fahad2.css"></style>`).insertBefore("body");
 $('.hand.nosel.fl.uzr.border').css({'margin': '1px 0',borderRight: '1px solid #EDEDED',borderLeft: '1px solid #adadad',borderTop: '1px solid #EDEDED',borderBottom: '1px solid #EDEDED',paddingTop: '3px',borderRadius: '5px'});
 
 
