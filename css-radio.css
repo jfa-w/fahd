@@ -439,6 +439,6 @@ body{margin:0;padding:0}
 .dldisabled:hover{opacity:.5;-webkit-transform:none!important;-moz-transform:none!important;-ms-transform:none!important;transform:none!important;cursor:default!important}
 #player{margin:-50px -75px 0}
 .play-pause-button svg{width:20px;height:20px;margin-left:2px;margin-top:1px;/* border-radius:100px;*/}
-#player #controls-zone #play-pause-zone #btnPlay,#player #controls-zone #play-pause-zone #btnStop,#player #controls-zone #play-pause-zone #loading{width:26px;height:26px;margin:-2px 0 0 94px;background:#008e91;padding:3px;border-radius:10px 100px 30px}
-#loading .loader{content:" ";display:block;border-radius:50%;left:3.0px;top:1.9px;width:11px;height:11px;margin:1px;box-sizing:border-box;border:8px solid #ffffff;border-color:#ffffff #f91515 #ffffff #f93131;animation:lds-hourglass 1.2s infinite}
+#player #controls-zone #play-pause-zone #btnPlay,#player #controls-zone #play-pause-zone #btnStop,#player #controls-zone #play-pause-zone #loading{width:26px;height:26px;margin:-2px 0 0 94px;background:#c11616;padding:3px;border-radius:10px 100px 30px}
+#loading .loader{content:" ";display:block;border-radius:50%;left:3.0px;top:1.9px;width:11px;height:11px;margin:1px;box-sizing:border-box;border:8px solid #ffffff;border-color:#ffffff #a55183 #ffffff #d2b90a;animation:lds-hourglass 1.2s infinite}
 @keyframes lds-hourglass{0%{transform:rotate(0);animation-timing-function:cubic-bezier(0.55,0.055,0.675,0.19)}50%{transform:rotate(900deg);animation-timing-function:cubic-bezier(0.215,0.61,0.355,1)}100%{transform:rotate(1800deg)}}
