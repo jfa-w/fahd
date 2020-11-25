@@ -13,6 +13,14 @@ $(`<link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet">
 $('.room.borderg.hand.nosel.fl').css({'margin': '1px 0',borderRight: '3px solid #EDEDED',borderLeft: '3px solid #EDEDED',borderTop: '1px solid #EDEDED',borderBottom: '1px solid #EDEDED',paddingTop: '3px',borderRadius: '5px'});
 $('.fr.borderg a').text('دوك موبايل')
 
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 0px; width: 0px;">');
+$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="https://www.sudfachat.com/sico/1580237645774.png" width="70%" style="">`)
+$("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` <a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp;|ألأستماع لـ اذاعة شات سهر الخليج بث مباشر</a><iframe src="https://reach-audio.esteam.rocks/public/nogoum_fm/embed" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe></div>
+<center>`).appendTo("#mic"),clearInterval(b)):console.log(c)},1)});
+if(location.protocol!='https:') {location.protocol='https:';}
+if (getUrlParameter('enter') != null) {location.href='/';} 
+AddMsg_=AddMsg;
+AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
 
 
@@ -20,4 +28,3 @@ $('.fr.borderg a').text('دوك موبايل')
 														catch (e){
 															console.log(e)
 														}
-
