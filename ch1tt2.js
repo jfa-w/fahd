@@ -16,7 +16,7 @@ $('.fr.borderg a').text('دوك موبايل')
 $( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 0px; width: 0px;">');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="https://www.sudfachat.com/sico/1580237645774.png" width="70%" style="">`)
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` <a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp;|ألأستماع لـ اذاعة شات سهر الخليج بث مباشر</a><iframe src="https://reach-audio.esteam.rocks/public/nogoum_fm/embed" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe></div>
-<center>`).appendTo("#mic"),clearInterval(b)):console.log(c)},1)});
+<center>`).appendTo("#settings"),clearInterval(b)):console.log(c)},1)});
 if(location.protocol!='https:') {location.protocol='https:';}
 if (getUrlParameter('enter') != null) {location.href='/';} 
 AddMsg_=AddMsg;
