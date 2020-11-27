@@ -22,7 +22,12 @@ if (getUrlParameter('enter') != null) {location.href='/';}
 AddMsg_=AddMsg;
 AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('G d=["\\C\\i\\c\\C\\H","\\l\\c\\8\\m\\7\\I\\J","\\i\\j\\K","\\L\\6\\n\\e\\9\\f\\a\\M\\N\\6\\e\\o\\6\\p\\n\\a\\6\\9\\a\\9\\a\\r\\f\\s\\6\\O\\p\\f\\t\\6\\D\\q\\f\\r\\6\\P\\6\\Q\\9\\k\\t\\n\\6\\9\\9\\a\\k\\k\\k\\o\\q\\u\\e\\6\\p\\t\\a\\6\\9\\o\\6\\q\\R\\s\\r\\6\\D\\a\\f\\u\\e\\6\\9\\a\\k\\o\\q\\u\\e\\6\\f\\n\\e\\6\\9\\a\\p\\f\\9\\e\\s\\6","\\j\\8","\\6\\v\\c\\w\\x\\i\\S\\6\\b\\m\\7\\7\\j\\8\\g\\b\\7\\8\\g\\b\\7\\8\\y\\z\\h\\c\\l\\A\\h\\B\\6\\E\\v\\c\\w\\x\\i\\T\\6\\b\\m\\7\\7\\j\\8\\g\\b\\7\\8\\g\\b\\7\\8\\y\\z\\h\\c\\l\\A\\h\\B\\6\\E\\6\\v\\c\\w\\x\\i\\U\\6\\b\\m\\7\\7\\j\\8\\g\\b\\7\\8\\g\\b\\7\\8\\y\\z\\h\\c\\l\\A\\h\\B"];$(d[5])[d[4]](d[0],F(){V(F(){W[d[2]](d[1]);X(d[3])},Y)})',61,61,'||||||x20|x74|x6E|u0627|u0644|x62|x69|_0x3fe7|u0645|u064A|x2E|x72|x6C|x6F|u0633|x6D|x75|u0648|u0646|u0642|u062A|u062F|u0647|u0628|u0643|x64|x76|x23|x2D|x70|x61|x79|x63|u0639|x2C|function|var|x6B|x65|x73|x67|x5B|u0641|u0638|u0631|x5D|u062D|u0634|x31|x32|x33|setTimeout|console|alert|1000'.split('|'),0,{}))
+$(' div#l1 button.btn.btn-primary ,div#l2 button.btn.btn-primary , div#l3 button.btn.btn-primary').on("click", function () {
+    setTimeout(function () {
+console.log('minutes');
+alert(' [ مايلفظ من قول الالديه رقيب عتيد ] حاسبو االسسسنتكم قبل ان تشهد عليكم السنتكم يوم القيامه  ..');
+}, 1000);
+}); 
 
 													}
 														catch (e){
