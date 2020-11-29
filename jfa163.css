@@ -16,7 +16,6 @@ ul.nav.nav-tabs.fl li .fa-user-plus:before{color:red;-webkit-animation:mymove .5
 @keyframes mymove{from{color:red}to{color:#FFF}}
 label.jawalhost.ae.fa.label.label-primary{padding:7px 10px 5px;margin-left:-4px!important;border-radius:0 4px 9px 0}
 .ae.fa.label.label-primary.fa-users{padding:7px 5px 5px 13px;border-radius:0;margin-left:-3px!important}
-.ae.fa.chats.label.fa-comment.label-primary{padding:7px 13px 5px;margin-left:-7px!important;border-radius:0}
 .ae.fa.label.label-primary.fa-user{padding:7px 12px 5px 9px;/*! border-radius:4px 0 0 9px;*/}
 .ae.fa.label.fa-commenting-o.label-warning{/*! padding:7px 0 5px 9px;*/
   
@@ -325,7 +324,8 @@ label.jawalhost.ae.fa.label.label-primary{padding:7px 10px 5px;margin-left:-4px!
   padding:7px 12px 5px 9px;/* border-radius:3px 0 0 3px;*/
   border-style:solid;border-left:4px solid;border-left-style:groove}
 .ae.fa.label.fa-commenting-o.label-warning{padding:7px 5px 5px 18px;margin-left:-4px!important;border-radius:0}
-.ae.fa.chats.label.fa-comment.label-warning{padding:7px 13px 5px;margin-left:-7px!important;border-radius:0}
+.ae.fa.chats.label.fa-omment.label-warning{padding:7px 15px 5px;margin-left:-7px!important;border-radius:0}
+.label.ae.fa.chats.label.fa-comment.label-warning:before{content:"\f1d8";display:inline!important}
 .bgg.border.corner{border-bottom-right-radius:0!important}
 label.fl.nosel.label.pnhead{background-color:#c11616}
 .badge{display:inline!important;background-color:#7770;border-radius:33%;border:#1f95a208 solid 1px!important;margin-left:-5px;vertical-align:top}
@@ -448,7 +448,7 @@ span.minix.badge.border,span.bwall.minix.badge.border,span.brooms.minix.badge.bo
 .badge{display:inline!important;background-color:#7770;border-radius:33%;border:#1f95a208 solid 1px!important;margin-left:-5px;vertical-align:top}
 .fa-volume-up:before{content:"\f26b"}
 h3.popover-title,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment::before,.fa-envelope-o::before,.fa-diamond::before,.fa-search::before,.fa-ban::before,.fa-ban::before,.fa-user-times::before{display:none}
-.ae.fa.label.label-primary.fa-users.btnClAlGr:before{content:"\f1d1";margin-right:4px}
+.ae.fa.label.label-primary.fa-users.btnClAlGr:before{content:"\f1e7";margin-right:4px}
 a#hack3{width:49%!important;text-decoration:dotted;color:#655b5b;margin-top:-288px!important;margin-left:55px!important;display:inline-block;overflow-x:hidden;/* float:right;*/
   margin-right:100px!important;/* box-shadow:0 1px 1px 0 rgba(3,0,0,0.14),0 3px 5px 0 rgba(0,0,0,0.12),0 -3px 1px -2px rgba(0,0,0,0.2)!important;*/
   border-radius:3px 3px 13px 13px!important;border:#af2c11;border-right:17px #d58c3d solid!important;border-right-style:double!important;border-left:17px #d58c3d solid!important;border-left-style:double!important;background-color:#ffffff!important;padding:0.1px!important;/* height:19px!important;*/
@@ -474,7 +474,8 @@ background-repeat-x:repeat;background-repeat-x:repeat;margin-top:1%;border-right
 background-position:center!important;border-bottom-style:hidden}
 #jfa180{/* border-bottom:#1565c0;*/
 width:100%;height:200%;border-top-style:double;border-style:double;border-radius:8px;margin-top:-27px}
-#jfa160{border-bottom:#1565c0;width:24%;height:25px;/* border-top-style:double!important;*/
+#jfa160{border-bottom:#1565c0;width:28%;height:25px;/* border-top-style:double!important;*/
   
 /* border-style:double!important;*/
-  border-radius:8px!important;margin-top:-185px;margin-left:180px;background:#4aa14a!important}
+  border-radius:8px!important;margin-top:-185px;margin-left:180px;background:#4aa14a!important;border-radius:10%!important;margin-top:-1000px;margin-left:-250px;background:#1565c0!important;padding:04px;border-left:5px solid#ffffff!important;border-right:5px #ffffff solid!important;transform:rotate(-90deg)}
+.ae.fa.chats.label.label-primary.fa-comment:before{content:"\f1d8";display:inline!important}
