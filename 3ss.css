@@ -7,4 +7,4 @@ ul.nav.nav-tabs.fl li{background:#fff;width:33%;border:1px solid#a7a4a4;margin-l
 .nav-tabs>li>a{border-radius:15px 15px 7px 7px;line-height:9px;padding:10px 11px!important}
 ul.nav.nav-tabs.fl li a{text-align:center}
 .btn-ali{background-image:-webkit-gradient(linear,left top,left bottom,from(#7a9fb1),to(#75838a));border-radius:15px 15px 7px 7px;border:1px solid #9db0b9;font-family:jazeera,FontAwesome;padding:4px 3px 3px 4px}
-.label-danger{background-color:#FFFDD0;color:#000000}
+.label-danger{background-color: #f8f8ff;color: #000000;}
