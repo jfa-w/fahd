@@ -456,8 +456,8 @@ a#hack3{width:49%!important;text-decoration:dotted;color:#655b5b;margin-top:-288
 /* background-image:linear-gradient(90deg,#f4e3ae 0,#ffffff 10%,#ffffff 51%,#ffffff 89%,#f4e3b2 100%);*/}
 a#hack3:hover{color:#ad0f09!important;transform:rotate(0deg)}
 .cp{background-color:#4ba34b!important;color:white!important}
-.redit{background-color:#a3822e!important;color:white!important}
-.pmsg{background-color:#a55183!important;color:white!important;border-right:20px #ebf1ff solid;border-left:20px #ebf1ff solid;border-left-style:double;border-style:double;font-style:initial;border-radius:10%}
+.redit{background-color:#4e768a!important;color:white!important;border-right:13px #ebf1ff solid;border-left:13px #ebf1ff solid;border-left-style:double;border-style:double;font-style:normal;border-radius:10%}
+.pmsg{background-color:#a55183!important;color:white!important;border-right:13px #ebf1ff solid;border-left:13px #ebf1ff solid;border-left-style:double;border-style:double;font-style:initial;border-radius:10%}
 .fa-gear::before,.fa-cog::before{content:"\f085"}
 .fa-commenting-o::before{content:"\f06d";margin-right:14px}
 .fa-send::before,.fa-paper-plane::before{content:"\f122";padding:0 4px 4px 4px}
@@ -479,4 +479,4 @@ width:100%;height:200%;border-top-style:double;border-style:double;border-radius
 /* border-style:double!important;*/
   border-radius:8px!important;margin-top:-185px;margin-left:180px;background:#4aa14a!important;border-radius:5px 99px 6px!important;margin-top:-970px;margin-left:-259px;background:#1565c0!important;padding:06px 0 0;border-left:5px solid#ffffff00!important;border-right:5px #ffffff00 solid!important;transform:rotate(-90deg);color:#ffffff;font:menu}
 .ae.fa.chats.label.label-primary.fa-comment:before{content:"\f1d8";display:inline!important}
-.label-danger{background:#bb883f;color:#fff!important;border-right:20px #ebf1ff solid;border-left:20px #ebf1ff solid;border-left-style:double;border-style:double;font-style:oblique;border-radius:10%}
+.label-danger{background:#bb883f;color:#fff!important;border-right:13px #ebf1ff solid;border-left:13px #ebf1ff solid;border-left-style:double;border-style:double;font-style:oblique;border-radius:10%}
