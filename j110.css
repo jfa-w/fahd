@@ -1265,7 +1265,7 @@ input#u1, input#u2, input#pass1, input#u3, input#pass2 {
     /* border: .5px solid #3f8795; */
     font-family: jazeera,FontAwesome;
     font-size: 13px !important;
-    padding: 2px 2px 0 !important;
+    /* padding: 2px 2px 0 !important; */
     text-align: center !important;
     color: #fff !important;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2) !important;
@@ -1298,8 +1298,8 @@ input#u1, input#u2, input#pass1, input#u3, input#pass2 {
     border-top: .5px solid#fff !important;
     border-left: .5px solid#fff !important;
     /* box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 -3px 1px -2px rgba(0,0,0,.2) !important; */
-    border-radius: 70px 70px 0 0;
+    border-radius: 80px 80px 0 0;
     position: absolute;
-    margin-top: -147.6px !important;
+    margin-top: -145.6px !important;
     margin-left: 33px !important;
 }
